@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+José!)
 
 **Sou estudante de Ciência da Computação focado na área de desenvolvimento backend. Compartilho meus projetos aqui no meu perfil.**
 
