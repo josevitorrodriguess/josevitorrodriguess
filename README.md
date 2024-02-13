@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=FFFFFF&width=435&lines=Hi+my+name+is+José!)](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&color=FFFFFF&width=435&lines=Hi%2C+my+name+is+Jos%C3%A9!
 )
 
-**I am a Computer Science student focused on backend development. I share my projects here on my profile.**
+**I am a backend developer. I share my projects here on my profile.**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitorrodriguess&show_icons=true&theme=dark) 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorrodriguess&show_icons=true&theme=dark" alt="Top Languages" width="300" height="195">
