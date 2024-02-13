@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+my+name+%C3%A9+José!)](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&color=FFFFFF&width=435&lines=Hi%2C+my+name+is+Jos%C3%A9!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=FFFFFF&width=435&lines=Hi+my+name+is+José!)](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&color=FFFFFF&width=435&lines=Hi%2C+my+name+is+Jos%C3%A9!
 )
 
 **I am a Computer Science student focused on backend development. I share my projects here on my profile.**
