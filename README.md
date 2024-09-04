@@ -1,34 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=FFFFFF&width=435&lines=Hi+my+name+is+José!)](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&color=FFFFFF&width=435&lines=Hi%2C+my+name+is+Jos%C3%A9!
-)
-
-**I am a backend developer. I share my projects here on my profile.**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitorrodriguess&show_icons=true&theme=dark) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorrodriguess&show_icons=true&theme=dark" alt="Top Languages" width="300" height="195">
+# 💫 About Me:
+My name is Jose,<br><br>I am a backend developer. I share my projects here on my profile.
 
 
-**My Contacts:**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josevrodrigues_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-rodrigues-79b81128a/) 
 
-<p align="left">
-  <a href="mailto:josevitorrodrigues17@gmail.com.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=josevitorrodriguess&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=josevitorrodriguess&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorrodriguess&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-rodrigues-79b81128a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  <a href="https://instagram.com/josevrodrigues_" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=josevitorrodriguess&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
-**Lenguages and tools**
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-          
-          
-          
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=josevitorrodriguess&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
