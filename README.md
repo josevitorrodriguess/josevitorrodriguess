@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on backend development<br><br>    🌱 I’m currently learning  Golang, Node.JS,<br><br>
+<br><br>    🔭 I’m currently working on backend development<br><br>    🌱 I’m currently learning Machine Leraning, Computational Vision<br><br>
 
 
 ## 🌐 Socials:
