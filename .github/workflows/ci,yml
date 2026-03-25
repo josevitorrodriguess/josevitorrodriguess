@@ -1,0 +1,23 @@
+# .github/workflows/ci.yml
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código do repositório
+        uses: actions/checkout@v5
+
+      - name: Mostrar informações
+        run: |
+          echo "Branch: ${{ github.ref }}"
+          echo "Repo: ${{ github.repository }}"
+          echo "Actor: ${{ github.actor }}"
