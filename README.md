@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/josevitorrodriguess/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://seu-site-aqui.com" target="_blank">
+<a href="https://josevitorrodriguess.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=0F2040"/>
 </a>
 </p>
